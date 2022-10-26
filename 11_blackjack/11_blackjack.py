@@ -39,7 +39,7 @@ def compare(user, computer):
     print("You lose!")
   
 while(input("Do You want to play a game of blackjack,Type 'y' or 'n'") == 'y'):
-  print("logo")
+  print(logo)
   end = True
   user_cards = []
   computer_cards = []
